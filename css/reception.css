@@ -1,0 +1,29 @@
+
+    .table-inbox {
+        border: 4px solid #d3d3d3;
+        margin-bottom: 0;
+
+        margin-right: 10px;
+    }
+    
+    .table-inbox tr td{
+        padding: 30px !important;
+    }
+    
+    .table-inbox tr td:hover{
+        cursor: pointer;
+        background-color: gold;
+    }
+    
+    
+    
+    .table-inbox tr td .fa-star{
+        color: #d5d5d5;
+    }
+    
+    .table-inbox tr.unread td {
+        font-weight: 500;
+        background: #f7f7f7;
+    }
+ 
+   
